@@ -1,1 +1,1 @@
-# proje1
+# yapay zeka bootcamp bitirme projesi
